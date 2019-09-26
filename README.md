@@ -4,7 +4,7 @@
 
 ### How to run project
 
-C:\services-portal\&gt; forever start app.js
+C:\services-portal\> forever start app.js
 
 ### How to stop project
 
